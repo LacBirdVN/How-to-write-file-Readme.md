@@ -3,7 +3,7 @@
 ***
 <br>
 
-# 1.Tiêu đề (#)
+# 1.Tiêu đề ( `#` )
 
 # Đây là tiêu đề 1.1
 
@@ -33,7 +33,7 @@
 <br>
 
 
-# 2. Chèn Code (```)
+# 2. Chèn Code ( ` ``` ` )
 *Chú ý: ``` ` ``` ở dưới dấu ``` ~ ``` ; Không phải ``` ' ``` ở dưới dấu ```<```
 <br>
 
@@ -79,7 +79,7 @@ hoặc
 <br>
 <br>
 
-# 3. Xuống dòng mới (`<br>`)
+# 3. Xuống dòng mới ( `<br>` )
 ```
 Dòng 1
 <br>
@@ -111,7 +111,7 @@ Kết quả: [Github](https://github.com)
 <br>
 <br>
 
-# 6. Ký tự in đậm, in nghiêng (*)
+# 6. Ký tự in đậm, in nghiêng ( ` * ` )
 
 ```
 **từ cần in đậm**
@@ -129,7 +129,7 @@ Kết quả: [Github](https://github.com)
 <br>
 <br>
 
-# 7. Gạch đầu dòng (-)
+# 7. Gạch đầu dòng ( `Tab` )
 
 ```
 - Gạch đầu dòng thứ nhất
@@ -162,7 +162,7 @@ Kết quả: [Github](https://github.com)
 <br>
 <br>
 
-# 8. Tạo bảng
+# 8. Tạo bảng ( `|` )
 
 ```
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
@@ -183,7 +183,7 @@ Kết quả:
 <br>
 <br>
 
-# 9. Kẻ ngang (`***`)
+# 9. Kẻ ngang ( `***` )
 ```
 ***
 ```
