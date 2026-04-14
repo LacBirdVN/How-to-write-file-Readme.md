@@ -98,6 +98,24 @@ Dòng 2
 
 # 4. Chèn ảnh ( `![](...)` )
 
+```
+![](/Picture/scarlet.jpg)
+```
+
+Kết quả:<br>
+![](/Picture/scarlet.jpg)
+
+hoặc để chỉnh kích thước cho đẹp
+```
+<p align="center">
+  <img src="/Picture/scarlet.jpg" width="300">
+</p>
+```
+Kết quả:<br>
+<p align="center">
+  <img src="/Picture/scarlet.jpg" width="300">
+</p>
+
 <br>
 <br>
 
@@ -109,23 +127,48 @@ Dòng 2
 Kết quả: [Github](https://github.com)
 
 <br>
+
+hoặc
+```
+https://github.com
+```
+Kết quả: https://github.com
+
+<br>
 <br>
 
 # 6. Ký tự in đậm, in nghiêng ( ` * ` )
-
-```
-**từ cần in đậm**
-```
-
-**từ cần in đậm**
-
+<br>
 
 ```
 *từ cần in nghiêng*
 ```
 
-*từ cần in nghiêng*
+Kết quả: *từ cần in nghiêng*
 
+<br>
+
+```
+**từ cần in đậm**
+```
+
+Kết quả: **từ cần in đậm**
+
+<br>
+
+```
+***từ cần đậm + nghiêng***
+```
+
+Kết quả: ***từ cần đậm + nghiêng***
+
+<br>
+
+```
+~từ cần gạch~
+```
+
+Kết quả: ~từ cần gạch~
 <br>
 <br>
 
