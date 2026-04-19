@@ -1,5 +1,5 @@
 # Cách viết file Readme.md (Ngôn ngữ Markdown)
-*Mẹo:* Dùng http://markdownlivepreview.com/ => code Markdown (Readme.md) bạn viết để xem trước.
+*Mẹo:* Dùng http://markdownlivepreview.com/ => code Markdown (Readme.md) bạn viết để xem trước. Hoặc thêm extention `Markdown All in One` trong VsCode
 ***
 <br>
 
